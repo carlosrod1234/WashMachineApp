@@ -1,2 +1,2 @@
 # WashMachineApp
-Python Ethernet Washmachine App
+Python initial GUI to control Washmachines using Ethernet network. 
